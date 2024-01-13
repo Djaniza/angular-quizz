@@ -5,6 +5,9 @@ Project created as the final assessment for the DIO-Banco Pan Bootcamp.
 
 Final Project View
 
+https://github.com/Djaniza/angular-quizz/assets/78621637/f41ec09a-68eb-42c7-8bc5-8a4a1222c449
+
+
 
 ## Development server
 
